@@ -27,7 +27,7 @@ int main()
 
 
 	
-	cout << "test";
+	cout << "Zmiana";
 	OsobyVector.printVec();
 
 	system("pause");
